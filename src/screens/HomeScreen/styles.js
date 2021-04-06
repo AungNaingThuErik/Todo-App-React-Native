@@ -30,7 +30,7 @@ export default StyleSheet.create({
   button: {
     height: 47,
     borderRadius: 5,
-    backgroundColor: "#788eec",
+    backgroundColor: "#603bbb",
     width: 80,
     alignItems: "center",
     justifyContent: "center",
@@ -45,12 +45,12 @@ export default StyleSheet.create({
   },
   entityContainer: {
     marginTop: 16,
-    borderBottomColor: "#cccccc",
+    borderBottomColor: "#603bbb",
     borderBottomWidth: 1,
     paddingBottom: 16,
   },
   entityText: {
     fontSize: 20,
-    color: "#333333",
+    color: "#603bbb",
   },
 });
